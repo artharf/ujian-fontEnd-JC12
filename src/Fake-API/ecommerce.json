@@ -1,0 +1,489 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "lianeddy",
+      "password": "abc123",
+      "email": "lian.eddy@gmail.com",
+      "role": "user"
+    },
+    {
+      "id": 2,
+      "username": "admin",
+      "password": "admin",
+      "email": "admin@admin.com",
+      "role": "admin"
+    },
+    {
+      "username": "asd",
+      "email": "asd",
+      "password": "asd",
+      "role": "user",
+      "id": 3
+    },
+    {
+      "username": "",
+      "email": "",
+      "password": "",
+      "role": "user",
+      "id": 4
+    },
+    {
+      "username": "wdadadad",
+      "email": "wads12@yahoo.com",
+      "password": "asd",
+      "role": "user",
+      "id": 5
+    },
+    {
+      "username": "wads12",
+      "email": "arthur",
+      "password": "asd",
+      "role": "user",
+      "id": 6
+    },
+    {
+      "username": "akasdk",
+      "email": "arthur",
+      "password": "asd#23",
+      "role": "user",
+      "id": 7
+    },
+    {
+      "username": "hahaha",
+      "email": "arthur",
+      "password": "testtesttest",
+      "role": "user",
+      "id": 8
+    },
+    {
+      "username": "testtttt",
+      "email": "lolo",
+      "password": "testtesttest#23",
+      "role": "user",
+      "id": 9
+    },
+    {
+      "username": "cobacoba",
+      "email": "lolo23",
+      "password": "testtesttest#23",
+      "role": "user",
+      "id": 10
+    },
+    {
+      "username": "idbaru",
+      "email": "yolo",
+      "password": "cobamasuk",
+      "role": "user",
+      "id": 11
+    },
+    {
+      "username": "idbaru2",
+      "email": "yolo",
+      "password": "cobamasuk#23",
+      "role": "user",
+      "id": 12
+    },
+    {
+      "username": "cobauser",
+      "email": "arthur",
+      "password": "testmasuk#23",
+      "role": "user",
+      "id": 13
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Jordan 9 Retro Barcelona Nights",
+      "brand": "Jordan",
+      "price": 13500000,
+      "category": "Men",
+      "image": "https://d38t85204sb0x0.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzQxMS9iMjIwMzUzMC0yNmQwLTQ4NjgtOTVjNS05MzNlZGVhM2UzNzYuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwfX19"
+    },
+    {
+      "id": 2,
+      "name": "Jordan 1 Retro High Black Crimson Tint",
+      "brand": "Jordan",
+      "price": 2950000,
+      "category": "Kids",
+      "image": "https://d38t85204sb0x0.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzM0NzQvOTExNWVhOGQtYWEwMC00M2EyLWEyNmItNzgyMGExMDVlMjI1LmpwZWciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjUwMH19fQ=="
+    },
+    {
+      "id": 3,
+      "name": "Air Jordan 1 Low Noble Red",
+      "brand": "Jordan",
+      "price": 1650000,
+      "category": "Men",
+      "image": "https://d38t85204sb0x0.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzYxODQvNDRjZDU3MWEtMjQ4ZS00MmMyLTk2YmItNzBkOWEwNGNmYjFhLmpwZWciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjUwMH19fQ=="
+    },
+    {
+      "id": 4,
+      "name": "Jordan 1 Mid Multi Color Swoosh",
+      "brand": "Jordan",
+      "price": 1350000,
+      "category": "Men",
+      "image": "https://d38t85204sb0x0.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzYyMjYvODdjNmRkMTktOTAzMS00NmM0LTg2NzItYjRmMWEwZThjM2Q1LmpwZWciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjUwMH19fQ=="
+    },
+    {
+      "name": "Jordan 1 Retro High Blue Moon",
+      "brand": "Jordan",
+      "price": 6500000,
+      "category": "Men",
+      "image": "https://d38t85204sb0x0.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzExMjUvMmVmZDhlMDctMDhiNy00ZjNmLTgxYzItN2UxYzI2ZTdhYzA2LnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwfX19",
+      "id": 10
+    },
+    {
+      "name": "Jordan 1 Retro High Off-White Chicago",
+      "brand": "Jordan",
+      "price": 80000000,
+      "category": "Men",
+      "image": "https://d38t85204sb0x0.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzIzMi84MDZiYTQyOC1mMmY0LTRkZTAtODc5Mi1mMTI0ZTgzNGRkMjguanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwfX19",
+      "id": 11
+    },
+    {
+      "name": "Jordan 1 Retro High Volt (W)",
+      "brand": "Jordan",
+      "price": 3800000,
+      "category": "Men",
+      "image": "https://d38t85204sb0x0.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzQ3NjYvYTdlZWFkZDEtMGY5NS00ZTIyLWI1MjgtZTIzNWE4Y2RhOGNmLmpwZWciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjUwMH19fQ==",
+      "id": 12
+    }
+  ],
+  "latihan": [
+    {
+      "nama": "Andi",
+      "id": 1,
+      "boolean": "false",
+      "laptop": "Asus"
+    },
+    {
+      "nama": "Susilo",
+      "id": 2,
+      "boolean": "false",
+      "laptop": "Asus"
+    },
+    {
+      "id": 3,
+      "nama": "susilo",
+      "boolean": "true",
+      "laptop": "mac"
+    }
+  ],
+  "cart": [
+    {
+      "userId": 3,
+      "productId": 1,
+      "name": "Jordan 9 Retro Barcelona Nights",
+      "brand": "Jordan",
+      "price": 13500000,
+      "category": "Men",
+      "image": "https://d38t85204sb0x0.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzQxMS9iMjIwMzUzMC0yNmQwLTQ4NjgtOTVjNS05MzNlZGVhM2UzNzYuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwfX19",
+      "size": 41,
+      "qty": 1,
+      "id": 1
+    },
+    {
+      "userId": 3,
+      "productId": 1,
+      "name": "Jordan 9 Retro Barcelona Nights",
+      "brand": "Jordan",
+      "price": 13500000,
+      "category": "Men",
+      "image": "https://d38t85204sb0x0.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzQxMS9iMjIwMzUzMC0yNmQwLTQ4NjgtOTVjNS05MzNlZGVhM2UzNzYuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwfX19",
+      "size": 44,
+      "qty": 1,
+      "id": 2
+    }
+  ],
+  "transaction": [
+    {
+      "userId": 3,
+      "grandTotal": 0,
+      "date": "24/2/2020, 1:24:6",
+      "product": [
+        {
+          "userId": 3,
+          "productId": 1,
+          "name": "Jordan 9 Retro Barcelona Nights",
+          "brand": "Jordan",
+          "price": 13500000,
+          "category": "Men",
+          "image": "https://d38t85204sb0x0.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzQxMS9iMjIwMzUzMC0yNmQwLTQ4NjgtOTVjNS05MzNlZGVhM2UzNzYuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwfX19",
+          "size": 40,
+          "qty": 1,
+          "id": 1
+        },
+        {
+          "userId": 3,
+          "productId": 3,
+          "name": "Air Jordan 1 Low Noble Red",
+          "brand": "Jordan",
+          "price": 1650000,
+          "category": "Men",
+          "image": "https://d38t85204sb0x0.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzYxODQvNDRjZDU3MWEtMjQ4ZS00MmMyLTk2YmItNzBkOWEwNGNmYjFhLmpwZWciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjUwMH19fQ==",
+          "size": 45,
+          "qty": 1,
+          "id": 2
+        },
+        {
+          "userId": 3,
+          "productId": 4,
+          "name": "Jordan 1 Mid Multi Color Swoosh",
+          "brand": "Jordan",
+          "price": 1350000,
+          "category": "Men",
+          "image": "https://d38t85204sb0x0.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzYyMjYvODdjNmRkMTktOTAzMS00NmM0LTg2NzItYjRmMWEwZThjM2Q1LmpwZWciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjUwMH19fQ==",
+          "size": 42,
+          "qty": 1,
+          "id": 3
+        },
+        {
+          "userId": 3,
+          "productId": 10,
+          "name": "Jordan 1 Retro High Blue Moon",
+          "brand": "Jordan",
+          "price": 6500000,
+          "category": "Men",
+          "image": "https://d38t85204sb0x0.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzExMjUvMmVmZDhlMDctMDhiNy00ZjNmLTgxYzItN2UxYzI2ZTdhYzA2LnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwfX19",
+          "size": 42,
+          "qty": 1,
+          "id": 4
+        },
+        {
+          "userId": 3,
+          "productId": 12,
+          "name": "Jordan 1 Retro High Volt (W)",
+          "brand": "Jordan",
+          "price": 3800000,
+          "category": "Men",
+          "image": "https://d38t85204sb0x0.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzQ3NjYvYTdlZWFkZDEtMGY5NS00ZTIyLWI1MjgtZTIzNWE4Y2RhOGNmLmpwZWciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjUwMH19fQ==",
+          "size": 42,
+          "qty": 1,
+          "id": 5
+        },
+        {
+          "userId": 3,
+          "productId": 3,
+          "name": "Air Jordan 1 Low Noble Red",
+          "brand": "Jordan",
+          "price": 1650000,
+          "category": "Men",
+          "image": "https://d38t85204sb0x0.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzYxODQvNDRjZDU3MWEtMjQ4ZS00MmMyLTk2YmItNzBkOWEwNGNmYjFhLmpwZWciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjUwMH19fQ==",
+          "size": 44,
+          "qty": 1,
+          "id": 6
+        },
+        {
+          "userId": 3,
+          "productId": 2,
+          "name": "Jordan 1 Retro High Black Crimson Tint",
+          "brand": "Jordan",
+          "price": 2950000,
+          "category": "Kids",
+          "image": "https://d38t85204sb0x0.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzM0NzQvOTExNWVhOGQtYWEwMC00M2EyLWEyNmItNzgyMGExMDVlMjI1LmpwZWciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjUwMH19fQ==",
+          "size": 45,
+          "qty": 1,
+          "id": 7
+        },
+        {
+          "userId": 3,
+          "productId": 1,
+          "name": "Jordan 9 Retro Barcelona Nights",
+          "brand": "Jordan",
+          "price": 13500000,
+          "category": "Men",
+          "image": "https://d38t85204sb0x0.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzQxMS9iMjIwMzUzMC0yNmQwLTQ4NjgtOTVjNS05MzNlZGVhM2UzNzYuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwfX19",
+          "size": 41,
+          "qty": 2,
+          "id": 8
+        },
+        {
+          "userId": 3,
+          "productId": 11,
+          "name": "Jordan 1 Retro High Off-White Chicago",
+          "brand": "Jordan",
+          "price": 80000000,
+          "category": "Men",
+          "image": "https://d38t85204sb0x0.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzIzMi84MDZiYTQyOC1mMmY0LTRkZTAtODc5Mi1mMTI0ZTgzNGRkMjguanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwfX19",
+          "size": 44,
+          "qty": 1,
+          "id": 9
+        },
+        {
+          "userId": 3,
+          "productId": 2,
+          "name": "Jordan 1 Retro High Black Crimson Tint",
+          "brand": "Jordan",
+          "price": 2950000,
+          "category": "Kids",
+          "image": "https://d38t85204sb0x0.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzM0NzQvOTExNWVhOGQtYWEwMC00M2EyLWEyNmItNzgyMGExMDVlMjI1LmpwZWciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjUwMH19fQ==",
+          "size": 43,
+          "qty": 1,
+          "id": 10
+        }
+      ],
+      "id": 1
+    },
+    {
+      "userId": 3,
+      "grandTotal": 2950000,
+      "date": "24/2/2020, 1:24:33",
+      "product": [
+        {
+          "userId": 3,
+          "productId": 2,
+          "name": "Jordan 1 Retro High Black Crimson Tint",
+          "brand": "Jordan",
+          "price": 2950000,
+          "category": "Kids",
+          "image": "https://d38t85204sb0x0.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzM0NzQvOTExNWVhOGQtYWEwMC00M2EyLWEyNmItNzgyMGExMDVlMjI1LmpwZWciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjUwMH19fQ==",
+          "size": 44,
+          "qty": 1,
+          "id": 1
+        }
+      ],
+      "id": 2
+    },
+    {
+      "userId": 3,
+      "grandTotal": 13500000,
+      "date": "24/2/2020, 1:25:16",
+      "product": [
+        {
+          "userId": 3,
+          "productId": 1,
+          "name": "Jordan 9 Retro Barcelona Nights",
+          "brand": "Jordan",
+          "price": 13500000,
+          "category": "Men",
+          "image": "https://d38t85204sb0x0.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzQxMS9iMjIwMzUzMC0yNmQwLTQ4NjgtOTVjNS05MzNlZGVhM2UzNzYuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwfX19",
+          "size": 41,
+          "qty": 1,
+          "id": 1
+        }
+      ],
+      "id": 3
+    },
+    {
+      "userId": 3,
+      "grandTotal": 13500000,
+      "date": "24/2/2020, 1:34:29",
+      "product": [
+        {
+          "userId": 3,
+          "productId": 1,
+          "name": "Jordan 9 Retro Barcelona Nights",
+          "brand": "Jordan",
+          "price": 13500000,
+          "category": "Men",
+          "image": "https://d38t85204sb0x0.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzQxMS9iMjIwMzUzMC0yNmQwLTQ4NjgtOTVjNS05MzNlZGVhM2UzNzYuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwfX19",
+          "size": 42,
+          "qty": 1,
+          "id": 1
+        }
+      ],
+      "id": 4
+    },
+    {
+      "userId": 3,
+      "grandTotal": 80000000,
+      "date": "24/2/2020, 1:35:48",
+      "product": [
+        {
+          "userId": 3,
+          "productId": 11,
+          "name": "Jordan 1 Retro High Off-White Chicago",
+          "brand": "Jordan",
+          "price": 80000000,
+          "category": "Men",
+          "image": "https://d38t85204sb0x0.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzIzMi84MDZiYTQyOC1mMmY0LTRkZTAtODc5Mi1mMTI0ZTgzNGRkMjguanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwfX19",
+          "size": 44,
+          "qty": 1,
+          "id": 1
+        }
+      ],
+      "id": 5
+    },
+    {
+      "userId": 3,
+      "grandTotal": 2950000,
+      "date": "24/2/2020, 1:41:50",
+      "product": [
+        {
+          "userId": 3,
+          "productId": 2,
+          "name": "Jordan 1 Retro High Black Crimson Tint",
+          "brand": "Jordan",
+          "price": 2950000,
+          "category": "Kids",
+          "image": "https://d38t85204sb0x0.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzM0NzQvOTExNWVhOGQtYWEwMC00M2EyLWEyNmItNzgyMGExMDVlMjI1LmpwZWciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjUwMH19fQ==",
+          "size": 44,
+          "qty": 1,
+          "id": 1
+        }
+      ],
+      "id": 6
+    },
+    {
+      "userId": 3,
+      "grandTotal": 13500000,
+      "date": "24/2/2020, 1:42:26",
+      "product": [
+        {
+          "userId": 3,
+          "productId": 1,
+          "name": "Jordan 9 Retro Barcelona Nights",
+          "brand": "Jordan",
+          "price": 13500000,
+          "category": "Men",
+          "image": "https://d38t85204sb0x0.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzQxMS9iMjIwMzUzMC0yNmQwLTQ4NjgtOTVjNS05MzNlZGVhM2UzNzYuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwfX19",
+          "size": 43,
+          "qty": 1,
+          "id": 1
+        }
+      ],
+      "id": 7
+    },
+    {
+      "userId": 3,
+      "grandTotal": 13500000,
+      "date": "24/2/2020, 1:44:47",
+      "product": [
+        {
+          "userId": 3,
+          "productId": 1,
+          "name": "Jordan 9 Retro Barcelona Nights",
+          "brand": "Jordan",
+          "price": 13500000,
+          "category": "Men",
+          "image": "https://d38t85204sb0x0.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzQxMS9iMjIwMzUzMC0yNmQwLTQ4NjgtOTVjNS05MzNlZGVhM2UzNzYuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwfX19",
+          "size": 44,
+          "qty": 1,
+          "id": 1
+        }
+      ],
+      "id": 8
+    },
+    {
+      "userId": 3,
+      "grandTotal": 80000000,
+      "date": "24/2/2020, 1:45:42",
+      "product": [
+        {
+          "userId": 3,
+          "productId": 11,
+          "name": "Jordan 1 Retro High Off-White Chicago",
+          "brand": "Jordan",
+          "price": 80000000,
+          "category": "Men",
+          "image": "https://d38t85204sb0x0.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzIzMi84MDZiYTQyOC1mMmY0LTRkZTAtODc5Mi1mMTI0ZTgzNGRkMjguanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwfX19",
+          "size": 43,
+          "qty": 1,
+          "id": 1
+        }
+      ],
+      "id": 9
+    }
+  ]
+}
